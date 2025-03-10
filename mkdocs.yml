@@ -1,0 +1,4 @@
+site_name: Databus docs
+site_url: https://bea.doc
+theme:
+  name: material
